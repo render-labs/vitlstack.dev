@@ -13,33 +13,39 @@
                     class="text-xl text-center font-semibold text-gray-800"
                 >The stack for making full-stack applications with the power of modern tech.</p>
             </div>
-            <div class="bg-vue-opacity vue-shadow text-gray-900 rounded p-4 my-8">
-                <a class="https://vuejs.org/">
+            <div class="bg-vue-opacity vue-shadow text-gray-900 rounded my-8">
+                <a href="https://vuejs.org/" class="block p-4">
                     <span class="font-bold">Vue.js</span> - Build all your pages with the popular and magical Vue.js.
                 </a>
             </div>
-            <div class="bg-inertia-opacity inertia-shadow text-gray-900 rounded p-4 my-8">
-                <a href="https://inertiajs.com/">
+            <div class="bg-inertia-opacity inertia-shadow text-gray-900 rounded my-8">
+                <a href="https://inertiajs.com/" class="block p-4">
                     <span class="font-bold">Inertia.js</span> - Make the front-end an SPA without building an API with Inertia.js and create the modern monolith.
                 </a>
             </div>
-            <div class="bg-tailwind-opacity tailwind-shadow text-gray-900 rounded p-4 my-8">
-                <a class="https://tailwindcss.com">
+            <div class="bg-tailwind-opacity tailwind-shadow text-gray-900 rounded my-8">
+                <a href="https://tailwindcss.com" class="block p-4">
                     <span class="font-bold">Tailwind CSS</span> - Style with the powerful and productive Tailwind, you won't believe how easy it is.
                 </a>
             </div>
-            <div class="bg-laravel-opacity laravel-shadow text-gray-900 rounded p-4 my-8">
-                <a href="https://laravel.com/">
+            <div class="bg-laravel-opacity laravel-shadow text-gray-900 rounded my-8">
+                <a href="https://laravel.com/" class="block p-4">
                     <span class="font-bold">Laravel</span> - Handle the logic with mature and powerful Laravel, which handles most of the complex stuff for you and become an Artisan.
                 </a>
             </div>
         </div>
-        <div>
-            <p>
+        <div class="text-center pt-8">
+            <p class="text-gray-700">
                 Built by
-                <a href="https://twitter.com/SamNewby_">Sam Newby</a> at
-                <a href="https://renderlabs.io">Render Labs</a> |
-                <a href="https://github.com/render-labs/vitlstack.dev">Open source on GitHub</a>
+                <a
+                    href="https://twitter.com/SamNewby_"
+                    class="text-blue-500 underline"
+                >Sam Newby</a> at
+                <a href="https://renderlabs.io" class="text-blue-500 underline">Render Labs</a> |
+                <a
+                    href="https://github.com/render-labs/vitlstack.dev"
+                    class="text-blue-500 underline"
+                >Open source on GitHub</a>
             </p>
         </div>
     </div>

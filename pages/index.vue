@@ -4,7 +4,7 @@
             class="text-center font-bold text-4xl"
         >The VITL stack is the vital stack for your Laravel apps</h1>
         <div class="text-center mt-5">
-            <p>Vue.js, Inertia.js, Tailwind and Laravel.</p>
+            <p class="text-gray-800">Vue.js, Inertia.js, Tailwind and Laravel.</p>
         </div>
 
         <div class="text-left mt-8">
